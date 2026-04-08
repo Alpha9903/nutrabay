@@ -1,0 +1,4804 @@
+{
+  "web_ffa18177syw": {
+    "mode": null,
+    "hasWelcomed": false,
+    "userName": null,
+    "namePrompted": true,
+    "nameDeclined": false,
+    "awaitingName": false,
+    "email": null,
+    "phone": null,
+    "contactPrompted": false,
+    "contactDeclined": false,
+    "awaitingContact": false,
+    "languageCode": "hi",
+    "humanHandoffActive": false,
+    "humanHandoffRequestedAt": null,
+    "preferences": {
+      "size": null,
+      "budget": null,
+      "colors": [],
+      "styles": []
+    },
+    "conversationContext": [
+      {
+        "role": "user",
+        "content": "return krna ho to kese hoga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Agar aapko product return karna hai, toh aapko kuch steps follow karne honge:\n\n1. **Login**: Sabse pehle apne account mein login karein.\n2. **My Orders**: Uske baad, \"My Orders\" section mein jaake wo order select karein jisko aap return karna chahte hain.\n3. **Initiate Return**: Wahan aapko \"Initiate Return\" ka option milega, uspe click karein.\n4. **Return Process**: Fir aapko return process ke liye instructions milenge. Aapko product pack karke return address par bhejna hoga.\n\nAgar aapko aur koi details chahiye, toh aap support section mein bhi dekh sakte hain."
+      }
+    ],
+    "conversationAll": [
+      {
+        "role": "user",
+        "content": "return krna ho to kese hoga?",
+        "at": "2026-04-06T01:10:47.162Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Agar aapko product return karna hai, toh aapko kuch steps follow karne honge:\n\n1. **Login**: Sabse pehle apne account mein login karein.\n2. **My Orders**: Uske baad, \"My Orders\" section mein jaake wo order select karein jisko aap return karna chahte hain.\n3. **Initiate Return**: Wahan aapko \"Initiate Return\" ka option milega, uspe click karein.\n4. **Return Process**: Fir aapko return process ke liye instructions milenge. Aapko product pack karke return address par bhejna hoga.\n\nAgar aapko aur koi details chahiye, toh aap support section mein bhi dekh sakte hain.",
+        "at": "2026-04-06T01:10:52.510Z"
+      }
+    ],
+    "lastSearchResults": [
+      {
+        "id": "_bestseller_creatine_",
+        "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "price": "₹749",
+        "numericPrice": 749,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+        "features": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "tags": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "link": "https://nutrabay.com/bestseller/creatine/",
+        "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": null,
+        "reviewCount": null,
+        "promotions": [],
+        "shippingBadges": [],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437765249,
+        "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "skus": [],
+        "codes": [
+          "_bestseller_creatine_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766597,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.014999999544179701
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766993,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994126800748
+      },
+      {
+        "id": "_product_nutrabay-pure-100-pea-protein-isolate_",
+        "title": "Nutrabay Pure Pea Protein Isolate",
+        "name": "Nutrabay Pure Pea Protein Isolate",
+        "price": "₹599-₹899100",
+        "numericPrice": 599899100,
+        "compareAtPrice": "₹1,669",
+        "originalPrice": "₹1,669",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Pea Protein Isolate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766816,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-pure-100-pea-protein-isolate_"
+        ],
+        "__rank_score": 0.014892766335296301
+      },
+      {
+        "id": "_product_nutrabay-gold-hydrolyzed-pea-protein_",
+        "title": "Nutrabay Gold Pea Protein",
+        "name": "Nutrabay Gold Pea Protein",
+        "price": "₹69-₹2,649100",
+        "numericPrice": 692649100,
+        "compareAtPrice": "₹1,499",
+        "originalPrice": "₹1,499",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Pea Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766873,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-hydrolyzed-pea-protein_"
+        ],
+        "__rank_score": 0.014876186989170929
+      },
+      {
+        "id": "_product_nutrabay-gold-100-whey-protein-concentrate_",
+        "title": "Nutrabay Gold Whey Protein Concentrate",
+        "name": "Nutrabay Gold Whey Protein Concentrate",
+        "price": "₹99-₹8,999100",
+        "numericPrice": 998999100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766352,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-100-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.01482142598986627
+      },
+      {
+        "id": "_product_nutrabay-bioabsorb-whey-protein_",
+        "title": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "name": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "price": "₹109-₹5,199100",
+        "numericPrice": 1095199100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766480,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-bioabsorb-whey-protein_"
+        ],
+        "__rank_score": 0.014804229945690951
+      },
+      {
+        "id": "_product_nutrabay-whey-protein-concentrate_",
+        "title": "Nutrabay Pure Whey Protein Concentrate",
+        "name": "Nutrabay Pure Whey Protein Concentrate",
+        "price": "₹1,199-₹8,499100",
+        "numericPrice": 11998499100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-whey-protein-concentrate/",
+        "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "images": [
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766639,
+        "imageUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.01285523172888497
+      },
+      {
+        "id": "_product_optimum-nutrition-on-100-whey-gold-standard-2_",
+        "title": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "price": "₹839-₹14,649100",
+        "numericPrice": 83914649100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Optimum Nutrition (ON) Gold Standard Whey Protein Powder online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "link": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp"
+        ],
+        "vendor": "Optimum Nutrition",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766758,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_optimum-nutrition-on-100-whey-gold-standard-2_"
+        ],
+        "__rank_score": 0
+      }
+    ],
+    "lastDisplayedProducts": [
+      {
+        "id": "_bestseller_creatine_",
+        "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "price": "₹749",
+        "numericPrice": 749,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+        "features": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "tags": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "link": "https://nutrabay.com/bestseller/creatine/",
+        "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": null,
+        "reviewCount": null,
+        "promotions": [],
+        "shippingBadges": [],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437765249,
+        "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "skus": [],
+        "codes": [
+          "_bestseller_creatine_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766597,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.014999999544179701
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766993,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994126800748
+      }
+    ],
+    "lastDetailedProduct": {
+      "id": "_bestseller_creatine_",
+      "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+      "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+      "price": "₹749",
+      "numericPrice": 749,
+      "compareAtPrice": "₹1,419",
+      "originalPrice": "₹1,419",
+      "onSale": true,
+      "isOnSale": true,
+      "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+      "features": [
+        "Categories",
+        "Bestsellers",
+        "Performance Nutrition",
+        "Amino Acids",
+        "Creatine",
+        "<Performance Nutrition",
+        "<Amino Acids"
+      ],
+      "tags": [
+        "Categories",
+        "Bestsellers",
+        "Performance Nutrition",
+        "Amino Acids",
+        "Creatine",
+        "<Performance Nutrition",
+        "<Amino Acids"
+      ],
+      "link": "https://nutrabay.com/bestseller/creatine/",
+      "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+      "images": [
+        "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+      ],
+      "vendor": "Nutrabay",
+      "productType": "Supplements",
+      "category": "Supplements",
+      "rating": null,
+      "reviewCount": null,
+      "promotions": [],
+      "shippingBadges": [],
+      "colors": [],
+      "sizes": [],
+      "lastScraped": 1775437765249,
+      "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+      "skus": [],
+      "codes": [
+        "_bestseller_creatine_"
+      ],
+      "__rank_score": 0.015
+    },
+    "lastComparedProducts": [],
+    "viewedProducts": [
+      {
+        "id": "_bestseller_creatine_",
+        "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "price": "₹749",
+        "numericPrice": 749,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+        "features": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "tags": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "link": "https://nutrabay.com/bestseller/creatine/",
+        "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": null,
+        "reviewCount": null,
+        "promotions": [],
+        "shippingBadges": [],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437765249,
+        "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "skus": [],
+        "codes": [
+          "_bestseller_creatine_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766597,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.014999999544179701
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766993,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994126800748
+      },
+      {
+        "id": "_bestseller_creatine_",
+        "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "price": "₹749",
+        "numericPrice": 749,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+        "features": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "tags": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "link": "https://nutrabay.com/bestseller/creatine/",
+        "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": null,
+        "reviewCount": null,
+        "promotions": [],
+        "shippingBadges": [],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437765249,
+        "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "skus": [],
+        "codes": [
+          "_bestseller_creatine_"
+        ],
+        "__rank_score": 0.015
+      }
+    ],
+    "displayedProductsHistory": [
+      {
+        "id": "_bestseller_creatine_",
+        "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "price": "₹749",
+        "numericPrice": 749,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+        "features": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "tags": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "link": "https://nutrabay.com/bestseller/creatine/",
+        "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": null,
+        "reviewCount": null,
+        "promotions": [],
+        "shippingBadges": [],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437765249,
+        "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "skus": [],
+        "codes": [
+          "_bestseller_creatine_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766597,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.014999999544179701
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766993,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994126800748
+      }
+    ],
+    "productViewIndex": 3,
+    "intent": null,
+    "sentiment": null,
+    "issues": [],
+    "lastQueryProducts": [
+      {
+        "id": "_bestseller_creatine_",
+        "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "price": "₹749",
+        "numericPrice": 749,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+        "features": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "tags": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "link": "https://nutrabay.com/bestseller/creatine/",
+        "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": null,
+        "reviewCount": null,
+        "promotions": [],
+        "shippingBadges": [],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437765249,
+        "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "skus": [],
+        "codes": [
+          "_bestseller_creatine_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766597,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.014999999544179701
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766993,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994126800748
+      },
+      {
+        "id": "_product_nutrabay-pure-100-pea-protein-isolate_",
+        "title": "Nutrabay Pure Pea Protein Isolate",
+        "name": "Nutrabay Pure Pea Protein Isolate",
+        "price": "₹599-₹899100",
+        "numericPrice": 599899100,
+        "compareAtPrice": "₹1,669",
+        "originalPrice": "₹1,669",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Pea Protein Isolate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766816,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-pure-100-pea-protein-isolate_"
+        ],
+        "__rank_score": 0.014892766335296301
+      },
+      {
+        "id": "_product_nutrabay-gold-hydrolyzed-pea-protein_",
+        "title": "Nutrabay Gold Pea Protein",
+        "name": "Nutrabay Gold Pea Protein",
+        "price": "₹69-₹2,649100",
+        "numericPrice": 692649100,
+        "compareAtPrice": "₹1,499",
+        "originalPrice": "₹1,499",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Pea Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766873,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-hydrolyzed-pea-protein_"
+        ],
+        "__rank_score": 0.014876186989170929
+      },
+      {
+        "id": "_product_nutrabay-gold-100-whey-protein-concentrate_",
+        "title": "Nutrabay Gold Whey Protein Concentrate",
+        "name": "Nutrabay Gold Whey Protein Concentrate",
+        "price": "₹99-₹8,999100",
+        "numericPrice": 998999100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766352,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-100-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.01482142598986627
+      },
+      {
+        "id": "_product_nutrabay-bioabsorb-whey-protein_",
+        "title": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "name": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "price": "₹109-₹5,199100",
+        "numericPrice": 1095199100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766480,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-bioabsorb-whey-protein_"
+        ],
+        "__rank_score": 0.014804229945690951
+      },
+      {
+        "id": "_product_nutrabay-whey-protein-concentrate_",
+        "title": "Nutrabay Pure Whey Protein Concentrate",
+        "name": "Nutrabay Pure Whey Protein Concentrate",
+        "price": "₹1,199-₹8,499100",
+        "numericPrice": 11998499100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-whey-protein-concentrate/",
+        "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "images": [
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766639,
+        "imageUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.01285523172888497
+      },
+      {
+        "id": "_product_optimum-nutrition-on-100-whey-gold-standard-2_",
+        "title": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "price": "₹839-₹14,649100",
+        "numericPrice": 83914649100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Optimum Nutrition (ON) Gold Standard Whey Protein Powder online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "link": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp"
+        ],
+        "vendor": "Optimum Nutrition",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766758,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_optimum-nutrition-on-100-whey-gold-standard-2_"
+        ],
+        "__rank_score": 0
+      }
+    ],
+    "recentProductsHistory": [
+      {
+        "id": "_bestseller_creatine_",
+        "title": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "name": "Top Selling Creatine in 2026 | NUTRABAY™",
+        "price": "₹749",
+        "numericPrice": 749,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Find the most popular Creatine in India for 2026, only at Nutrabay.com. Stay ahead of the health trends with our top picks!",
+        "features": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "tags": [
+          "Categories",
+          "Bestsellers",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "<Performance Nutrition",
+          "<Amino Acids"
+        ],
+        "link": "https://nutrabay.com/bestseller/creatine/",
+        "image": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": null,
+        "reviewCount": null,
+        "promotions": [],
+        "shippingBadges": [],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437765249,
+        "imageUrl": "https://cdn2.nutrabay.com/others/Website-Sharing_OG-Image-Open-Graph-1769074788.webp",
+        "skus": [],
+        "codes": [
+          "_bestseller_creatine_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766597,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.014999999544179701
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775437766993,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994126800748
+      }
+    ],
+    "comparedProducts": [],
+    "pendingOccasionPreference": null,
+    "lastResponseModeDecision": null,
+    "lastAnswerMeta": null,
+    "pageContext": {
+      "type": "homepage",
+      "url": "http://localhost:6006/",
+      "path": "/",
+      "title": "Nutrabay Supplement Assistant",
+      "referrer": "",
+      "meta": {}
+    },
+    "sessionContext": {
+      "turns": [],
+      "lastFocusedProductId": null,
+      "lastTurnId": 0
+    },
+    "lastServiceCards": [],
+    "lastPricingPlans": [],
+    "lastServiceCardsIndex": 0,
+    "lastPricingPlansIndex": 0,
+    "lastDisplayedCardsType": null,
+    "conversationId": "cdc35a23-8491-41a9-a213-438a2d2803da",
+    "lastInboundText": "return krna ho to kese hoga?",
+    "lastInboundAt": 1775437844044,
+    "lastIntentAnalysis": {
+      "language": "hi",
+      "intent": "return_process",
+      "wants": [],
+      "productCodes": [],
+      "budget": null,
+      "confidence": 0.8
+    },
+    "lastIntentAnalysisAt": "2026-04-06T01:10:46.320Z",
+    "lastCatalogLoadNotifyAt": 1775437806685,
+    "lastDisplayPageId": 1775437807398,
+    "lastDisplayedStart": 0,
+    "lastKnowledgeSnippets": [
+      "…ortLogin/ Register0CartLogin / RegisterMy AccountMy OrdersAuthenticityNutrabay ProductsOffersSupportCategoriesBrandsDownload AppDownload AppReturns & Refunds FAQsPopularDeliveryPaymentsReturns & RefundsContact UsIs my product eligible for Return?What happens if I receive a fake product?What happens if the product is close to expiry?How do I initiate a return?What is the Return Process?How will the…"
+    ],
+    "lastKnowledgeQuery": "return krna ho to kese hoga?",
+    "lastKnowledgeAt": "2026-04-06T01:10:48.380Z"
+  },
+  "web_ko0c7s6va6q": {
+    "mode": null,
+    "hasWelcomed": false,
+    "userName": "show me some products",
+    "namePrompted": true,
+    "nameDeclined": false,
+    "awaitingName": false,
+    "email": null,
+    "phone": null,
+    "contactPrompted": true,
+    "contactDeclined": true,
+    "awaitingContact": false,
+    "languageCode": "hi",
+    "humanHandoffActive": false,
+    "humanHandoffRequestedAt": null,
+    "preferences": {
+      "size": null,
+      "budget": null,
+      "colors": [],
+      "styles": []
+    },
+    "conversationContext": [
+      {
+        "role": "assistant",
+        "content": "Would you like to share your name so I know what to call you? You can reply with your name, or say \"skip\"."
+      },
+      {
+        "role": "user",
+        "content": "show me some products"
+      },
+      {
+        "role": "assistant",
+        "content": "Nice to meet you, show me some products. Would you like to share your phone number or email so we can send you future offers? You can reply with your email/phone, or say \"skip\"."
+      },
+      {
+        "role": "user",
+        "content": "skip"
+      },
+      {
+        "role": "assistant",
+        "content": "No problem. How can I help you today?"
+      }
+    ],
+    "conversationAll": [
+      {
+        "role": "assistant",
+        "content": "Would you like to share your name so I know what to call you? You can reply with your name, or say \"skip\".",
+        "at": "2026-04-06T01:17:47.823Z"
+      },
+      {
+        "role": "user",
+        "content": "show me some products",
+        "at": "2026-04-06T01:17:56.348Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Nice to meet you, show me some products. Would you like to share your phone number or email so we can send you future offers? You can reply with your email/phone, or say \"skip\".",
+        "at": "2026-04-06T01:17:56.681Z"
+      },
+      {
+        "role": "user",
+        "content": "skip",
+        "at": "2026-04-06T01:18:08.252Z"
+      },
+      {
+        "role": "assistant",
+        "content": "No problem. How can I help you today?",
+        "at": "2026-04-06T01:18:08.600Z"
+      }
+    ],
+    "lastSearchResults": [
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256248,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256702,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994581101479
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014946458845507674
+      },
+      {
+        "id": "_product_nutrabay-pure-100-pea-protein-isolate_",
+        "title": "Nutrabay Pure Pea Protein Isolate",
+        "name": "Nutrabay Pure Pea Protein Isolate",
+        "price": "₹599-₹899100",
+        "numericPrice": 599899100,
+        "compareAtPrice": "₹1,669",
+        "originalPrice": "₹1,669",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Pea Protein Isolate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256509,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-pure-100-pea-protein-isolate_"
+        ],
+        "__rank_score": 0.014892766787857996
+      },
+      {
+        "id": "_product_nutrabay-gold-hydrolyzed-pea-protein_",
+        "title": "Nutrabay Gold Pea Protein",
+        "name": "Nutrabay Gold Pea Protein",
+        "price": "₹69-₹2,649100",
+        "numericPrice": 692649100,
+        "compareAtPrice": "₹1,499",
+        "originalPrice": "₹1,499",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Pea Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256600,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-hydrolyzed-pea-protein_"
+        ],
+        "__rank_score": 0.01487618744122881
+      },
+      {
+        "id": "_product_nutrabay-gold-100-whey-protein-concentrate_",
+        "title": "Nutrabay Gold Whey Protein Concentrate",
+        "name": "Nutrabay Gold Whey Protein Concentrate",
+        "price": "₹99-₹8,999100",
+        "numericPrice": 998999100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256059,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-100-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.01482142644026007
+      },
+      {
+        "id": "_product_nutrabay-bioabsorb-whey-protein_",
+        "title": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "name": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "price": "₹109-₹5,199100",
+        "numericPrice": 1095199100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256165,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-bioabsorb-whey-protein_"
+        ],
+        "__rank_score": 0.0148042303955622
+      },
+      {
+        "id": "_product_nutrabay-whey-protein-concentrate_",
+        "title": "Nutrabay Pure Whey Protein Concentrate",
+        "name": "Nutrabay Pure Whey Protein Concentrate",
+        "price": "₹1,199-₹8,499100",
+        "numericPrice": 11998499100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-whey-protein-concentrate/",
+        "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "images": [
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256305,
+        "imageUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.012855232119530019
+      },
+      {
+        "id": "_product_optimum-nutrition-on-100-whey-gold-standard-2_",
+        "title": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "price": "₹839-₹14,649100",
+        "numericPrice": 83914649100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Optimum Nutrition (ON) Gold Standard Whey Protein Powder online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "link": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp"
+        ],
+        "vendor": "Optimum Nutrition",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256419,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_optimum-nutrition-on-100-whey-gold-standard-2_"
+        ],
+        "__rank_score": 0
+      }
+    ],
+    "lastDisplayedProducts": [
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256248,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256702,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994581101479
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014946458845507674
+      }
+    ],
+    "lastDetailedProduct": {
+      "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+      "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+      "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+      "price": "₹299-₹529100",
+      "numericPrice": 299529100,
+      "compareAtPrice": "₹1,419",
+      "originalPrice": "₹1,419",
+      "onSale": true,
+      "isOnSale": true,
+      "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+      "features": [
+        "Categories",
+        "Performance Nutrition",
+        "Amino Acids",
+        "Creatine",
+        "Nutrabay Gold Micronized Creatine Monohydrate",
+        "Pineapple Ice Tea",
+        "120 g (0.26 lb)",
+        "250 g (0.55 lb)",
+        "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+        "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+        "Free & Fast DeliveryFree & FastDelivery",
+        "100% Authentic"
+      ],
+      "tags": [
+        "Categories",
+        "Performance Nutrition",
+        "Amino Acids",
+        "Creatine",
+        "Nutrabay Gold Micronized Creatine Monohydrate",
+        "Pineapple Ice Tea",
+        "120 g (0.26 lb)",
+        "250 g (0.55 lb)",
+        "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+        "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+        "Free & Fast DeliveryFree & FastDelivery",
+        "100% Authentic"
+      ],
+      "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+      "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+      "images": [
+        "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+      ],
+      "vendor": "Nutrabay",
+      "productType": "Supplements",
+      "category": "Supplements",
+      "rating": 4.7,
+      "reviewCount": null,
+      "promotions": [
+        "100% authentic",
+        "Free shipping on orders above ₹350",
+        "100% Authentic",
+        "14 days return",
+        "Pay on Delivery"
+      ],
+      "shippingBadges": [
+        "100% authentic",
+        "Free shipping on orders above ₹350",
+        "100% Authentic",
+        "14 days return",
+        "Pay on Delivery"
+      ],
+      "colors": [],
+      "sizes": [],
+      "lastScraped": 1775438256753,
+      "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+      "skus": [],
+      "codes": [
+        "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+      ]
+    },
+    "lastComparedProducts": [],
+    "viewedProducts": [
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256248,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256702,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994581101479
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014946458845507674
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014946458845507674
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ]
+      }
+    ],
+    "displayedProductsHistory": [
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256248,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256702,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994581101479
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014946458845507674
+      }
+    ],
+    "productViewIndex": 3,
+    "intent": null,
+    "sentiment": null,
+    "issues": [],
+    "lastQueryProducts": [
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256248,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256702,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994581101479
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014946458845507674
+      },
+      {
+        "id": "_product_nutrabay-pure-100-pea-protein-isolate_",
+        "title": "Nutrabay Pure Pea Protein Isolate",
+        "name": "Nutrabay Pure Pea Protein Isolate",
+        "price": "₹599-₹899100",
+        "numericPrice": 599899100,
+        "compareAtPrice": "₹1,669",
+        "originalPrice": "₹1,669",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Pea Protein Isolate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Pure Pea Protein Isolate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256509,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1048-PA-1770382815-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-pure-100-pea-protein-isolate_"
+        ],
+        "__rank_score": 0.014892766787857996
+      },
+      {
+        "id": "_product_nutrabay-gold-hydrolyzed-pea-protein_",
+        "title": "Nutrabay Gold Pea Protein",
+        "name": "Nutrabay Gold Pea Protein",
+        "price": "₹69-₹2,649100",
+        "numericPrice": 692649100,
+        "compareAtPrice": "₹1,499",
+        "originalPrice": "₹1,499",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Pea Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Vegan Plant Protein",
+          "Pea Protein",
+          "Nutrabay Gold Pea Protein",
+          "Cold Coffee",
+          "French Vanilla",
+          "Rich Chocolate Creme",
+          "40 g (0.08 lb)",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256600,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1102-PA-1771418717-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-hydrolyzed-pea-protein_"
+        ],
+        "__rank_score": 0.01487618744122881
+      },
+      {
+        "id": "_product_nutrabay-gold-100-whey-protein-concentrate_",
+        "title": "Nutrabay Gold Whey Protein Concentrate",
+        "name": "Nutrabay Gold Whey Protein Concentrate",
+        "price": "₹99-₹8,999100",
+        "numericPrice": 998999100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Gold Whey Protein Concentrate",
+          "Cafe Mocha",
+          "Cold Coffee",
+          "Kesar Badam Pista",
+          "Malai Kulfi",
+          "Rich Chocolate Creme",
+          "Strawberry Milkshake"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256059,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1061-PA-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-100-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.01482142644026007
+      },
+      {
+        "id": "_product_nutrabay-bioabsorb-whey-protein_",
+        "title": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "name": "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+        "price": "₹109-₹5,199100",
+        "numericPrice": 1095199100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay BioAbsorb™ Whey Protein Powder, 26g Protein Per Serving | ProDiFi™ Blend for Better Absorption",
+          "Dalgona Coffee",
+          "Dark Chocolate (Naturally Sweetened)",
+          "Kesar Badam Pista",
+          "Milk Chocolate",
+          "Strawberry",
+          "36 g (0.07 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256165,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1096-PA-1752576914-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-bioabsorb-whey-protein_"
+        ],
+        "__rank_score": 0.0148042303955622
+      },
+      {
+        "id": "_product_nutrabay-whey-protein-concentrate_",
+        "title": "Nutrabay Pure Whey Protein Concentrate",
+        "name": "Nutrabay Pure Whey Protein Concentrate",
+        "price": "₹1,199-₹8,499100",
+        "numericPrice": 11998499100,
+        "compareAtPrice": "₹3,899",
+        "originalPrice": "₹3,899",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Whey Protein Concentrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nutrabay Pure Whey Protein Concentrate",
+          "Unflavoured",
+          "500 g (1.1 lb)",
+          "1 kg (2.2 lb)",
+          "2 kg (4.4 lb)",
+          "4 kg (8.8 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order."
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-whey-protein-concentrate/",
+        "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "images": [
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256305,
+        "imageUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/09/NB-NUT-1010-02-01-340x340.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-whey-protein-concentrate_"
+        ],
+        "__rank_score": 0.012855232119530019
+      },
+      {
+        "id": "_product_optimum-nutrition-on-100-whey-gold-standard-2_",
+        "title": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+        "price": "₹839-₹14,649100",
+        "numericPrice": 83914649100,
+        "compareAtPrice": "₹4,099",
+        "originalPrice": "₹4,099",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Optimum Nutrition (ON) Gold Standard Whey Protein Powder online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Isolate",
+          "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+          "Alphanso Mango",
+          "Double Rich Chocolate",
+          "Unflavoured",
+          "Vanilla Ice Cream",
+          "152 g (0.33 lb)",
+          "155 g (0.34 lb)"
+        ],
+        "link": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp"
+        ],
+        "vendor": "Optimum Nutrition",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256419,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-OPT-1002-PA-1772085018-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_optimum-nutrition-on-100-whey-gold-standard-2_"
+        ],
+        "__rank_score": 0
+      }
+    ],
+    "recentProductsHistory": [
+      {
+        "id": "_product_nakpro-impact-whey-protein_",
+        "title": "Nakpro Impact Whey Protein",
+        "name": "Nakpro Impact Whey Protein",
+        "price": "₹3,299",
+        "numericPrice": 3299,
+        "compareAtPrice": "₹3,699",
+        "originalPrice": "₹3,699",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nakpro Impact Whey Protein online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Protein Powders",
+          "Whey Protein",
+          "Whey Protein Concentrate",
+          "Nakpro Impact Whey Protein",
+          "Chocolate",
+          "Cookies & Cream",
+          "Cream Chocolate",
+          "Double Rich Chocolate",
+          "Malai Kulfi",
+          "1 kg (2.2 lb)"
+        ],
+        "link": "https://nutrabay.com/product/nakpro-impact-whey-protein/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg"
+        ],
+        "vendor": "Nakpro",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.5,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256248,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3709-featured_image-Nakpro_Impact_Whey_Protein.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nakpro-impact-whey-protein_"
+        ],
+        "__rank_score": 0.015
+      },
+      {
+        "id": "_product_nutrabay-micronised-creatine-monohydrate_",
+        "title": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "name": "Nutrabay Pure Creatine Monohydrate Micronized",
+        "price": "₹279-₹749100",
+        "numericPrice": 279749100,
+        "compareAtPrice": "₹909",
+        "originalPrice": "₹909",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Pure Creatine Monohydrate Micronized online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Pure Creatine Monohydrate Micronized",
+          "Unflavoured",
+          "100 g (0.22 lb)",
+          "150 g (0.33 lb)",
+          "250 g (0.55 lb)",
+          "400 g (0.88 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256702,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/featured_image/product-3063-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronized.jpg",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-micronised-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014949994581101479
+      },
+      {
+        "id": "_product_nutrabay-gold-micronized-creatine-monohydrate_",
+        "title": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+        "price": "₹299-₹529100",
+        "numericPrice": 299529100,
+        "compareAtPrice": "₹1,419",
+        "originalPrice": "₹1,419",
+        "onSale": true,
+        "isOnSale": true,
+        "description": "Buy original Nutrabay Gold Micronized Creatine Monohydrate online and check price in India ✔ Lowest Prices ✔ Free & Fast Delivery ✔ Original & Authentic.",
+        "features": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "tags": [
+          "Categories",
+          "Performance Nutrition",
+          "Amino Acids",
+          "Creatine",
+          "Nutrabay Gold Micronized Creatine Monohydrate",
+          "Pineapple Ice Tea",
+          "120 g (0.26 lb)",
+          "250 g (0.55 lb)",
+          "Coupon Offers:Use code NUTRABAY5 to get a flat 5% on your 1st order.",
+          "Coupon Offers:Use code APP5 to get a flat 5% off on cart.Details",
+          "Free & Fast DeliveryFree & FastDelivery",
+          "100% Authentic"
+        ],
+        "link": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate/",
+        "image": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "images": [
+          "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp"
+        ],
+        "vendor": "Nutrabay",
+        "productType": "Supplements",
+        "category": "Supplements",
+        "rating": 4.7,
+        "reviewCount": null,
+        "promotions": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "shippingBadges": [
+          "100% authentic",
+          "Free shipping on orders above ₹350",
+          "100% Authentic",
+          "14 days return",
+          "Pay on Delivery"
+        ],
+        "colors": [],
+        "sizes": [],
+        "lastScraped": 1775438256753,
+        "imageUrl": "https://cdn2.nutrabay.com/uploads/product/images/featured_image-NB-NUT-1073-PA-1772781621-400x400.webp",
+        "skus": [],
+        "codes": [
+          "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+        ],
+        "__rank_score": 0.014946458845507674
+      }
+    ],
+    "comparedProducts": [],
+    "pendingOccasionPreference": null,
+    "lastResponseModeDecision": {
+      "mode": "show_products",
+      "reason": "product_cards_request"
+    },
+    "lastAnswerMeta": null,
+    "pageContext": {
+      "type": "homepage",
+      "url": "http://localhost:6007/",
+      "path": "/",
+      "title": "Nutrabay Supplement Assistant",
+      "referrer": "",
+      "meta": {}
+    },
+    "sessionContext": {
+      "turns": [],
+      "lastFocusedProductId": null,
+      "lastTurnId": 0
+    },
+    "lastServiceCards": [],
+    "lastPricingPlans": [],
+    "lastServiceCardsIndex": 0,
+    "lastPricingPlansIndex": 0,
+    "lastDisplayedCardsType": null,
+    "conversationId": "935e15a3-8fea-4d51-84cd-01bb31792696",
+    "lastInboundText": "is third product k bare m btao",
+    "lastInboundAt": 1775438308010,
+    "lastIntentAnalysis": {
+      "language": "en",
+      "intent": "product_details",
+      "wants": [],
+      "productCodes": [
+        "_product_nutrabay-gold-micronized-creatine-monohydrate_"
+      ],
+      "budget": null,
+      "confidence": 0.9
+    },
+    "lastIntentAnalysisAt": "2026-04-06T01:18:55.012Z",
+    "lastCatalogLoadNotifyAt": 1775438296246,
+    "lastDisplayPageId": 1775438296943,
+    "lastDisplayedStart": 0,
+    "lastProductSelectSig": "0|_product_nutrabay-gold-micronized-creatine-monohydrate_",
+    "lastProductSelectAt": 1775438335012
+  }
+}

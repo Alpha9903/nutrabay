@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-labelledby="title desc">
+  <title id="title">Nutrabay Supplement Assistant</title>
+  <desc id="desc">Nutrabay-inspired wordmark with a warm orange accent and dark background.</desc>
+  <rect width="320" height="120" rx="18" fill="#1e1b16"/>
+  <rect x="22" y="22" width="76" height="76" rx="18" fill="#f38b1f"/>
+  <path d="M42 80V40H52L76 68V40H86V80H76L52 52V80H42Z" fill="#fff8ef"/>
+  <text x="116" y="56" fill="#fff8ef" font-family="Poppins, Arial, Helvetica, sans-serif" font-size="31" font-weight="700">NUTRABAY</text>
+  <text x="116" y="82" fill="#f6c37c" font-family="Poppins, Arial, Helvetica, sans-serif" font-size="15" font-weight="500" letter-spacing="0.4">SUPPLEMENT ASSISTANT</text>
+</svg>

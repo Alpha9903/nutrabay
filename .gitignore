@@ -1,0 +1,7 @@
+.env
+.env.*
+backend/credentials.json
+node_modules/
+backend/semantic/*.tmp.*
+server-err.log
+server-out.log
